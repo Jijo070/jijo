@@ -385,6 +385,7 @@ p {
     border: 1px solid #F7E612;
     display: inline-block;
     padding: 0 1.2em;
+    padding-bottom: 16px;
 }
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
@@ -823,7 +824,7 @@ h2.resp-accordion {
     padding: 5em 0;
 }
 .work-right.work-right2 {
-    min-height: 200px;
+    min-height: 302px;
 }
 .work-right {
     padding: 2.5em 0 1em 6em;
@@ -1043,7 +1044,7 @@ h3.title {
     margin-top: 1em;
 }
 .work-right.work-right2 {
-    min-height: 235px;
+    min-height: 677px;
 }
 .bar-grids {
     padding: 0 1.5em;
