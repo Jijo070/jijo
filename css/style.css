@@ -413,9 +413,9 @@ p {
     margin-right: -7.3em;
     z-index: 9;
 }
-.work-left2 h5 span.glyph-spec{ 
+/*.work-left2 h5 span.glyph-spec{ 
     margin-right: -6.5em !important;
-}
+}*/
 .work-right.work-right2 {
     min-height: 210px;
     float: right;
@@ -862,10 +862,10 @@ h3.title {
 .contact-form input[type="text"] {
     width: 48.8%;
 }
-.work-info h5.head-extra{
+/*.work-info h5.head-extra{
     box-sizing: border-box;
     padding: 0.6em !important;
-}
+}*/
 }
 @media(max-width:1024px){
 .header-right h1 {
