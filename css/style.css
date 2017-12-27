@@ -862,7 +862,7 @@ h3.title {
 .contact-form input[type="text"] {
     width: 48.8%;
 }
-.work-info .work-left h5 .head-extra{
+.work-info .work-left .head-extra{
     box-sizing: border-box;
     padding: 0.6em !important;
 }
