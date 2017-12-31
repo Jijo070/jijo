@@ -1449,7 +1449,7 @@ h3.title {
  * -
  */
 
-@media only screen and (max-width:1024px) {
+@media (max-width:1024px) {
     .testimonials .flex-container {
         max-width: 600px;
     }
@@ -1457,7 +1457,7 @@ h3.title {
         font-size: 2.4rem;
     }
 }
-@media only screen and (max-width:768px) {
+@media (max-width:768px) {
     .testimonials .flex-container {
         width: 90%;
     }
@@ -1465,7 +1465,7 @@ h3.title {
         font-size: 2.2rem;
     }
 }
-@media only screen and (max-width:600px) {
+@media (max-width:600px) {
     .testimonials .flex-container {
         width: 95%;
     }
@@ -1476,7 +1476,7 @@ h3.title {
         top: -0.5rem;
     }
 }
-@media only screen and (max-width:400px) {
+@media (max-width:400px) {
     .testimonials .flex-container {
         width: auto;
     }
