@@ -4,6 +4,18 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+/** 
+ * ===================================================================
+ * webfonts and iconfonts 
+ *
+ * ------------------------------------------------------------------- 
+ */
+
+@import url("fonts.css");
+@import url("ionicons/css/ionicons.min.css");
+@import url("micons/micons.css");
+
 body{
     margin:0;
     font-family: 'Roboto Condensed', sans-serif;
@@ -515,6 +527,7 @@ p {
     text-align: center;
     font-family: "raleway-heavy", sans-serif;
     font-size: 1.5rem;
+    font-weight: 1000;
     letter-spacing: 2px;
     text-transform: uppercase;
     margin-bottom: 3rem;
@@ -527,7 +540,7 @@ p {
     line-height: 2.1rem;
     letter-spacing: 0;
     text-transform: none;
-    color: rgba(0, 0, 0, 0.4);
+    color: #696565;
 }
 
 /* control nav */
