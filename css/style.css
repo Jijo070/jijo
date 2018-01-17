@@ -527,7 +527,7 @@ p {
     vertical-align: middle;
     text-align: center;
     font-family: "raleway-heavy", sans-serif;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-weight: 1000;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -537,7 +537,7 @@ p {
 #testimonial-slider .testimonial-author .author-info span {
     display: block;
     font-family: "raleway-semibold", sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.9rem;
     line-height: 2.1rem;
     letter-spacing: 0;
     text-transform: none;
